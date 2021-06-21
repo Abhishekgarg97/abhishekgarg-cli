@@ -1,4 +1,4 @@
-<h1 align="center">abhisheknaiidu</h1>
+<h1 align="center">abhishek garg</h1>
 <i>
 <p align="center">The <a href="https://iamabhishekgarg.tech">
     Abhishek Garg
