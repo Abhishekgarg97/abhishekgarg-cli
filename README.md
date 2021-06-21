@@ -1,7 +1,7 @@
 <h1 align="center">abhisheknaiidu</h1>
 <i>
-<p align="center">The <a href="https://blog.abhisheknaidu.tech">
-    Abhishek Naidu
+<p align="center">The <a href="https://iamabhishekgarg.tech">
+    Abhishek Garg
   </a> CLI</p>
 </i>
 <div align="center">
