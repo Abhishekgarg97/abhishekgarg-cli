@@ -11,7 +11,11 @@
   </a>
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 
+<<<<<<< HEAD
 <a href="https://twitter.com/abhigarg1997">
+=======
+  <a href="https://twitter.com/abhigarg1997">
+>>>>>>> 80dc343ec32fd83eb22856f60a991d0eb56085ea
      <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" alt="TWEET" />
   </a>
 </div>
@@ -47,6 +51,11 @@ npx abhishekgarg
 
 ## License
 
+<<<<<<< HEAD
+=======
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+>>>>>>> 80dc343ec32fd83eb22856f60a991d0eb56085ea
 To the extent possible under law, [Abhishek Garg ](https://iamabhishekgarg.tech/) has waived all copyright and related or neighboring rights to this work.
 
 _Inspired by [Sindre Sorhus](https://github.com/sindresorhus) , [Abhijith Vijayan](https://github.com/abhijithvijayan)_
