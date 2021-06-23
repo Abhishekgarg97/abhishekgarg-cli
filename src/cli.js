@@ -10,12 +10,12 @@ const ui = importJsx("./ui");
 
 meow(`
 	Usage
-	  $ abhisheknaidu
+	  $abhishekgarg
 `);
 
 (async () => {
   await showBanner(
-    "Abhishek Naidu",
+    "Abhishek Garg",
     "CS Undergrad and Software Developer, among many other things!",
     "cyan",
     "blue"

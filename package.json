@@ -1,37 +1,37 @@
 {
-  "name": "abhisheknaidu",
-  "version": "1.0.2",
-  "description": "The Abhishek Naidu CLI",
+  "name": "abhishekgarg",
+  "version": "1.0.4",
+  "description": "The Abhishek garg CLI",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "https://github.com/abhisheknaidu/abhisheknaidu-cli.git",
+  "repository": "https://github.com/Abhishekgarg97/abhishekgarg-cli",
   "author": {
     "name": "abhishek naidu",
-    "email": "abhishknads@gmail.com",
-    "url": "https://blog.abhisheknaidu.tech"
+    "email": "abhishekgarg1218@gmail.com"
   },
   "keywords": [
     "cli",
     "cli-app",
-    "abhisheknaidu"
+    "abhishekgarg"
   ],
   "license": "CC0 1.0 Universal",
   "engines": {
     "node": ">=10.0.0"
   },
   "bin": {
-    "abhisheknaidu": "src/cli.js"
+    "abhishekgarg": "src/cli.js"
   },
   "files": [
     "src"
   ],
   "bugs": {
-    "url": "https://github.com/abhisheknaiidu/abhisheknaidu-cli/issues"
+    "url": "https://github.com/Abhishekgarg97/abhishekgarg-cli"
   },
-  "homepage": "https://github.com/abhisheknaiidu/abhisheknaidu-cli#readme",
+  "homepage": "https://github.com/Abhishekgarg97/abhishekgarg-cli",
   "devDependencies": {},
   "dependencies": {
+    "abhishekgarg": "^1.0.2",
     "import-jsx": "^4.0.0",
     "ink": "^3.0.8",
     "ink-select-input": "^4.2.0",
