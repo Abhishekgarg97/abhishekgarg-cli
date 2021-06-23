@@ -43,11 +43,8 @@ npx abhishekgarg
 
 ## License
 
-<<<<<<< HEAD
-=======
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
->>>>>>> 80dc343ec32fd83eb22856f60a991d0eb56085ea
-To the extent possible under law, [Abhishek Garg ](https://iamabhishekgarg.tech/) has waived all copyright and related or neighboring rights to this work.
+created with the help of abhisheknaidu(https://github.com/abhisheknaiidu/abhisheknaidu-cli)
+o the extent possible under law, [Abhishek Garg ](https://iamabhishekgarg.tech/) has waived all copyright and related or neighboring rights to this work.
 
 _Inspired by [Sindre Sorhus](https://github.com/sindresorhus) , [Abhijith Vijayan](https://github.com/abhijithvijayan)_
