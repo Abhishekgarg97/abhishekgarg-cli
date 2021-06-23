@@ -44,7 +44,7 @@ npx abhishekgarg
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-created with the help of abhisheknaidu(https://github.com/abhisheknaiidu/abhisheknaidu-cli)
+created with the help of [abhisheknaidu](https://github.com/abhisheknaiidu/abhisheknaidu-cli)
 o the extent possible under law, [Abhishek Garg ](https://iamabhishekgarg.tech/) has waived all copyright and related or neighboring rights to this work.
 
 _Inspired by [Sindre Sorhus](https://github.com/sindresorhus) , [Abhijith Vijayan](https://github.com/abhijithvijayan)_
