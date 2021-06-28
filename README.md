@@ -14,7 +14,7 @@
 
 <hr />
 <div align="center">
-<img src="abhishegargcli.JPG" width="700">
+<img src="abhishegargcli.jpeg" width="700">
 </div>
 
 ## Table of Contents
